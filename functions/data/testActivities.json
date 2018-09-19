@@ -1,0 +1,50 @@
+{
+    "l-atelier-d-edmond": {
+        "coordinates": [45.4508061, 7.0106802],
+        "location": "Val D'Isere",
+        "name": "L'Atelier d'Edmond",
+        "price": 3,
+        "tags": { "french": true, "european": true },
+        "type": "restaurant"
+    },
+    "la-folie-douce": {
+        "coordinates": [45.3810053, 6.6250813],
+        "location": "Val D'Isere",
+        "name": "La Folie Douce",
+        "price": 2,
+        "tags": { "bar": true, "french": true, "vegetarian": true },
+        "type": "restaurant"
+    },
+    "l-edelweiss": {
+        "coordinates": [45.4495378, 7.0171777],
+        "location": "Val D'Isere",
+        "name": "L'Edelweiss",
+        "price": 2.5,
+        "tags": { "european": true, "french": true, "vegetarian": true },
+        "type": "restaurant"
+    },
+    "flash-pizza": {
+        "coordinates": [45.4510946, 6.9745267],
+        "location": "Val D'Isere",
+        "name": "Flash Pizza",
+        "price": 1,
+        "tags": { "pizza": true, "italian": true, "vegetarian": true },
+        "type": "restaurant"
+    },
+    "moris-pub": {
+        "coordinates": [45.4485509, 6.9794408],
+        "location": "Val D'Isere",
+        "name": "Moris Pub",
+        "price": 3,
+        "tags": { "pub": true, "bar": true },
+        "type": "bar"
+    },
+    "dick-s-tea-bar": {
+        "coordinates": [45.4489207, 6.9746443],
+        "location": "Val D'Isere",
+        "name": "Dick's Tea Bar",
+        "price": 2,
+        "tags": { "club": true, "bar": true, "nightlife": true },
+        "type": "bar"
+    }
+}
