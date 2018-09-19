@@ -1,6 +1,6 @@
-# GeoFireStore Test
+# GeoFirestore Test
 
-Simple test for [Michael Solati](https://github.com/MichaelSolati) to test geohashing with [GeoFireStore](https://github.com/MichaelSolati/geofirestore)
+Simple test for [Michael Solati](https://github.com/MichaelSolati) to test geohashing with [GeoFirestore](https://github.com/MichaelSolati/geofirestore)
 
 ## To test
 
@@ -10,6 +10,7 @@ Simple test for [Michael Solati](https://github.com/MichaelSolati) to test geoha
 -   Run locally with `yarn local` or deploy to Firebase with `yarn deploy`
 -   Make a POST request to root endpoint to add/update all data in `./data/testActivities.json`. This is test data based upon some real restaurants in a ski resort in France. ;)
 -   Make multiple GET requests to the root endpoint to retrieve data
+-   Thanks Michael! :)
 
 ## Expected result
 
